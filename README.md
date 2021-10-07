@@ -90,5 +90,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niklasschloegel&theme=dark"
         alt="niklasschloegel" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasschloegel&label=visitors&color=45bd6e&style=flat"
-    alt="niklasschloegel" /> </p>
