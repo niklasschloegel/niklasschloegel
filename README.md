@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">Currently studying media computer science in my last semesters.</h3>
 
-- 🔭 I’m currently working on [vocab-trainer](https://github.com/niklasschloegel/vocab-trainer)
+- 🔭 I’m currently working on a [flutter-tutorial](https://github.com/niklasschloegel/flutter-tutorial)
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
