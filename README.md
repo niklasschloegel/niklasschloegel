@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">Currently studying media computer science in my last semesters.</h3>
 
-- 🔭 I’m currently working on [advent of code puzzles](https://github.com/niklasschloegel/advent-of-code-2021)
+- 🔭 I’m currently working on Uni Projects
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
