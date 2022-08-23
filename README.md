@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">Currently studying media computer science in my last semesters.</h3>
 
-- 🔭 I’m currently working on Uni Projects
-
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🔭 I’m currently working on my bachelor's thesis 🎓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
