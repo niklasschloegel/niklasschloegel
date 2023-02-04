@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
-<h3 align="center">Currently studying media computer science in my last semesters.</h3>
 
-- 🔭 I’m currently working on my bachelor's thesis 🎓
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.xing.com/profile/Niklas_Schloegel" target="blank"><img align="center"
-            src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png"
-            alt="niklas-schloegel" height="40" width="40" /></a>
     <a href="https://linkedin.com/in/niklas-schloegel" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="niklas-schloegel" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/12531598" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="12531598" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
