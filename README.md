@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
-<h3 align="center">A passionate full-stack developer from Wiesbaden, Germany.</h3>
-
-- 🔭 I’m currently working on [Agile Hive Cloud](https://agile-hive.com/product-cloud/)
-
-- 🌱 I’m currently learning **Google Cloud Platform**
-
-- 💬 Ask me about **TypeScript, Node.js**
+<h3 align="center">A passionate full-stack developer with focus on cloud technologies.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
